@@ -3,11 +3,21 @@ body {
 }
 
 .imagem-principal {
-    display: inline-block;
-    align-items: right;
+    display: block;
+    margin: 20px auto;
+    border: 3px;
+    border-radius: 0px 9px 9px 0px;
 }
+
 
 .texto-principal {
     color: white;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    vertical-align:text-bottom;
+}
+
+.descricao {
+    color: #8F8EA3;
+    font-size: 15px;
+
 }
