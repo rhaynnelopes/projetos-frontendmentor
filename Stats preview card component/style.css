@@ -3,17 +3,19 @@ body {
 }
 
 .imagem-principal {
-    display: block;
-    margin: 20px auto;
-    border: 3px;
+    display: inline-block;
+    margin-right: 50%;
+    border: transparent;
     border-radius: 0px 9px 9px 0px;
 }
 
 
 .texto-principal {
+    display: inline-block;
     color: white;
     font-size: 40px;
     vertical-align:text-bottom;
+    padding: 20px 0px;
 }
 
 .descricao {
